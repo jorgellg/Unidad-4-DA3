@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WSAlumno</string>
+    <string name="nota">Nota</string>
+    <string name="guardar">Guardar</string>
+    <string name="listar">Listar</string>
+    <string name="matricula">Matricula</string>
+    <string name="grado">Grado</string>
+    <string name="fecha">Fecha</string>
+    <string name="becado">Becado</string>
+</resources>

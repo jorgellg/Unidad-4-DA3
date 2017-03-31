@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WSPlanet</string>
+    <string name="name">Name</string>
+    <string name="size">Size</string>
+    <string name="moons">Moons</string>
+    <string name="diameter">Diameter</string>
+    <string name="galaxy">Galaxy</string>
+    <string name="guardar">Guardar</string>
+    <string name="listar">Listar</string>
+    <string name="gravity">Gravity</string>
+    <string name="distance">Distance</string>
+</resources>
